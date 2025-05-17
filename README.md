@@ -26,3 +26,6 @@ This project was developed by Dimitar Iliev and Damjan Karadakoski as part of an
 - **Software**: Python, OpenCV, pigpio, NumPy, [cvzone](https://github.com/cvzone/cvzone) for face detection
 
 ---
+## 📦 Requirements
+Install the required Python libraries:
+pip install opencv-python numpy cvzone pigpio
